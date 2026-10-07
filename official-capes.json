@@ -1,0 +1,105 @@
+{
+    "note": "Links to Mojang's official capes on Mojang's own texture server. Squid never includes or hosts the pictures: it loads them from Mojang when someone looks at them. Wearing one you don't own shows a tag next to your name.",
+    "capes": [
+        {
+            "id": "migrator",
+            "name": "Migrator",
+            "texture": "https://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933"
+        },
+        {
+            "id": "pan",
+            "name": "Pan",
+            "texture": "https://textures.minecraft.net/texture/28de4a81688ad18b49e735a273e086c18f1e3966956123ccb574034c06f5d336"
+        },
+        {
+            "id": "15th-anniversary",
+            "name": "15th Anniversary",
+            "texture": "https://textures.minecraft.net/texture/cd9d82ab17fd92022dbd4a86cde4c382a7540e117fae7b9a2853658505a80625"
+        },
+        {
+            "id": "common",
+            "name": "Common",
+            "texture": "https://textures.minecraft.net/texture/5ec930cdd2629c8771655c60eebeb867b4b6559b0e6d3bc71c40c96347fa03f0"
+        },
+        {
+            "id": "vanilla",
+            "name": "Vanilla",
+            "texture": "https://textures.minecraft.net/texture/f9a76537647989f9a0b6d001e320dac591c359e9e61a31f4ce11c88f207f0ad4"
+        },
+        {
+            "id": "cherry-blossom",
+            "name": "Cherry Blossom",
+            "texture": "https://textures.minecraft.net/texture/afd553b39358a24edfe3b8a9a939fa5fa4faa4d9a9c3d6af8eafb377fa05c2bb"
+        },
+        {
+            "id": "purple-heart",
+            "name": "Purple Heart",
+            "texture": "https://textures.minecraft.net/texture/cb40a92e32b57fd732a00fc325e7afb00a7ca74936ad50d8e860152e482cfbde"
+        },
+        {
+            "id": "followers",
+            "name": "Follower's",
+            "texture": "https://textures.minecraft.net/texture/569b7f2a1d00d26f30efe3f9ab9ac817b1e6d35f4f3cfb0324ef2d328223d350"
+        },
+        {
+            "id": "menace",
+            "name": "Menace",
+            "texture": "https://textures.minecraft.net/texture/dbc21e222528e30dc88445314f7be6ff12d3aeebc3c192054fba7e3b3f8c77b1"
+        },
+        {
+            "id": "copper",
+            "name": "Copper",
+            "texture": "https://textures.minecraft.net/texture/5e6f3193e74cd16cdd6637d9bae5484e3a37ff2a14c2d157c659a07810b1bdca"
+        },
+        {
+            "id": "home",
+            "name": "Home",
+            "texture": "https://textures.minecraft.net/texture/1de21419009db483900da6298a1e6cbf9f1bc1523a0dcdc16263fab150693edd"
+        },
+        {
+            "id": "mojang-office",
+            "name": "Mojang Office",
+            "texture": "https://textures.minecraft.net/texture/5c29410057e32abec02d870ecb52ec25fb45ea81e785a7854ae8429d7236ca26"
+        },
+        {
+            "id": "yearn",
+            "name": "Yearn",
+            "texture": "https://textures.minecraft.net/texture/308b32a9e303155a0b4262f9e5483ad4a22e3412e84fe8385a0bdd73dc41fa89"
+        },
+        {
+            "id": "founders",
+            "name": "Founder's",
+            "texture": "https://textures.minecraft.net/texture/99aba02ef05ec6aa4d42db8ee43796d6cd50e4b2954ab29f0caeb85f96bf52a1"
+        },
+        {
+            "id": "builder",
+            "name": "Builder",
+            "texture": "https://textures.minecraft.net/texture/2c579968c64c1719740fd8c2a451461879b238002574fce48f7d1a7c36a1c7d4"
+        },
+        {
+            "id": "zombie-horse",
+            "name": "Zombie Horse",
+            "texture": "https://textures.minecraft.net/texture/a3f6e4f14801f3ea55e3d95b9b4ef3b5e8802d947f669de93d6ec4b9354a436b"
+        },
+        {
+            "id": "mcc-15th-year",
+            "name": "MCC 15th Year",
+            "texture": "https://textures.minecraft.net/texture/56c35628fe1c4d59dd52561a3d03bfa4e1a76d397c8b9c476c2f77cb6aebb1df"
+        },
+        {
+            "id": "aurora",
+            "name": "Aurora",
+            "texture": "https://textures.minecraft.net/texture/7c418dfbd37412a55e9f1425c9807a591ad10cf71b1edb576a587be9114c277f"
+        },
+        {
+            "id": "minecraft-experience",
+            "name": "Minecraft Experience",
+            "texture": "https://textures.minecraft.net/texture/7658c5025c77cfac7574aab3af94a46a8886e3b7722a895255fbf22ab8652434"
+        },
+        {
+            "id": "twisted",
+            "name": "Twisted",
+            "texture": "https://textures.minecraft.net/texture/24aafc451aa2cc34ddc7265211678585c0ef4da4d32edb75ecec1bd8b5408381"
+        }
+    ]
+}
