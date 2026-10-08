@@ -35,6 +35,18 @@
          "minecraft": "26.3.x", "devPicked": true, "file": "zoom-1.0.1.jar",
          "url": "https://raw.githubusercontent.com/KelpSquid/squid-store/main/files/zoom-1.0.1.jar",
          "sha256": "bdde592d9fc451b12b27931c27d07a1cc904349676c75e0487631571aaaef532", "size": 2497,
-         "icon": "https://raw.githubusercontent.com/KelpSquid/squid-store/main/files/icons/zoom.png"}
+         "icon": "https://raw.githubusercontent.com/KelpSquid/squid-store/main/files/icons/zoom.png"},
+        {"id": "coords", "type": "mod", "name": "Coords", "version": "1.0.0", "author": "Samuel",
+         "description": "Your X, Y and Z and the biome you're in, always in the corner of the screen.",
+         "minecraft": "26.3.x", "devPicked": true, "file": "coords-1.0.0.jar",
+         "url": "https://raw.githubusercontent.com/KelpSquid/squid-store/main/files/coords-1.0.0.jar",
+         "sha256": "19195dbd40c75153111f69f41cd36f3a70743f8b98d3fd028f6bd1d540e43860", "size": 1664,
+         "icon": "https://raw.githubusercontent.com/KelpSquid/squid-store/main/files/icons/coords.png"},
+        {"id": "whereidied", "type": "mod", "name": "Where I Died", "version": "1.0.0", "author": "Samuel",
+         "description": "When you die, it remembers where and shows how far away your things are until you get them back. !died says where.",
+         "minecraft": "26.3.x", "devPicked": true, "file": "whereidied-1.0.0.jar",
+         "url": "https://raw.githubusercontent.com/KelpSquid/squid-store/main/files/whereidied-1.0.0.jar",
+         "sha256": "e82754757943dbefc78d69e92fbc9bf44c37acd46322cf9f185420cd1f7b6a77", "size": 2412,
+         "icon": "https://raw.githubusercontent.com/KelpSquid/squid-store/main/files/icons/whereidied.png"}
     ]
 }
