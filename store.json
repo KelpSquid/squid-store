@@ -42,11 +42,11 @@
          "url": "https://raw.githubusercontent.com/KelpSquid/squid-store/main/files/coords-1.0.0.jar",
          "sha256": "19195dbd40c75153111f69f41cd36f3a70743f8b98d3fd028f6bd1d540e43860", "size": 1664,
          "icon": "https://raw.githubusercontent.com/KelpSquid/squid-store/main/files/icons/coords.png"},
-        {"id": "whereidied", "type": "mod", "name": "Where I Died", "version": "1.0.0", "author": "Samuel",
+        {"id": "whereidied", "type": "mod", "name": "Where I Died", "version": "1.0.1", "author": "Samuel",
          "description": "When you die, it remembers where and shows how far away your things are until you get them back. !died says where.",
-         "minecraft": "26.3.x", "devPicked": true, "file": "whereidied-1.0.0.jar",
-         "url": "https://raw.githubusercontent.com/KelpSquid/squid-store/main/files/whereidied-1.0.0.jar",
-         "sha256": "e82754757943dbefc78d69e92fbc9bf44c37acd46322cf9f185420cd1f7b6a77", "size": 2412,
+         "minecraft": "26.3.x", "devPicked": true, "file": "whereidied-1.0.1.jar",
+         "url": "https://raw.githubusercontent.com/KelpSquid/squid-store/main/files/whereidied-1.0.1.jar",
+         "sha256": "4350b06f6ca5a842701f9a5d135f5abd1e00fe97e9c75b9d7cce5d79799cabc4", "size": 2644,
          "icon": "https://raw.githubusercontent.com/KelpSquid/squid-store/main/files/icons/whereidied.png"}
     ]
 }
