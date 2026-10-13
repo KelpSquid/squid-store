@@ -1,0 +1,4 @@
+# store.json and official-capes.json are signed byte for byte (store.json.sig, official-capes.json.sig), and
+# Kelp and Squid check the signature against exactly what GitHub sends. Git must never change their line endings.
+*.json -text
+*.sig -text
